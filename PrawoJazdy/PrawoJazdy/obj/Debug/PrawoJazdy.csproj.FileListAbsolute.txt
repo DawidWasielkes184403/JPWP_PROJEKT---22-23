@@ -1,0 +1,11 @@
+C:\Users\Dawid\source\repos\PrawoJazdy\PrawoJazdy\bin\Debug\PrawoJazdy.exe.config
+C:\Users\Dawid\source\repos\PrawoJazdy\PrawoJazdy\bin\Debug\PrawoJazdy.exe
+C:\Users\Dawid\source\repos\PrawoJazdy\PrawoJazdy\bin\Debug\PrawoJazdy.pdb
+C:\Users\Dawid\source\repos\PrawoJazdy\PrawoJazdy\obj\Debug\PrawoJazdy.csproj.AssemblyReference.cache
+C:\Users\Dawid\source\repos\PrawoJazdy\PrawoJazdy\obj\Debug\PrawoJazdy.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dawid\source\repos\PrawoJazdy\PrawoJazdy\obj\Debug\PrawoJazdy.Form1.resources
+C:\Users\Dawid\source\repos\PrawoJazdy\PrawoJazdy\obj\Debug\PrawoJazdy.Properties.Resources.resources
+C:\Users\Dawid\source\repos\PrawoJazdy\PrawoJazdy\obj\Debug\PrawoJazdy.csproj.GenerateResource.cache
+C:\Users\Dawid\source\repos\PrawoJazdy\PrawoJazdy\obj\Debug\PrawoJazdy.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\source\repos\PrawoJazdy\PrawoJazdy\obj\Debug\PrawoJazdy.exe
+C:\Users\Dawid\source\repos\PrawoJazdy\PrawoJazdy\obj\Debug\PrawoJazdy.pdb
